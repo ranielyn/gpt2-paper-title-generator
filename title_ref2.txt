@@ -1,0 +1,144 @@
+entanglement spread and clean resource inequalities		
+on the spectrum of the many-body pauli projector		
+the quantum double model with boundary: condensations and symmetries		
+accelerating the fourier split operator method via graphics processing units		
+no drama quantum electrodynamics?		
+overview of bohmian mechanics		
+quantum techniques for stochastic mechanics		
+quantum estimation of a two-phase spin rotation		
+duality of entanglement norms		
+noisy interactive quantum communication		
+generalized quantum arthur-merlin games		
+irreducible many-body correlations in topologically ordered systems		
+composite fermions in medium: extending the lipkin model		
+tensor network non-zero testing		
+robust electron pairing in the integer quantum hall effect regime		
+quantum annealing with antiferromagnetic transverse interactions for the hopfield model		
+a survey of the esr model for an objective reinterpretation of quantum mechanics		
+quantum optical non-linearities induced by rydberg-rydberg interactions: a perturbative approach		
+photoelectrical detection of electron spin resonance of nitrogen-vacancy centres in diamond		
+storage and retrieval of vector beams of light in a multiple-degree-of-freedom quantum memory		
+single-photon nonlinear optics with a quantum dot in a waveguide		
+superdense teleportation using hyperentangled photons		
+qudit homological product codes		
+laser cooling and control of excitations in superfluid helium		
+matrix poincar\'e	 \phi-sobolev inequalities	 and quantum ensembles
+experimental loophole-free violation of a bell inequality using entangled electron spins separated by 1.3 km		
+are retrocausal accounts of entanglement unnaturally fine-tuned?		
+quantum cryptography beyond quantum key distribution		
+quantum advice enhances social optimality in three-party conflicting interest games		
+exponential decay of matrix $\phi$-entropies on markov semigroups with applications to dynamical evolutions of quantum ensembles		
+quantum assisted gaussian process regression		
+rydberg-induced optical nonlinearities from a cold atomic ensemble trapped inside a cavity		
+achievability of quantum regime in optomechanics of electromagnetically levitated nanoparticles: inclusion of gradient force fluctuations		
+a computable branching random walk for the many-body wigner quantum dynamics		
+on the kolmogorov--wiener--masani spectrum of a multi-mode weakly stationary quantum process		
+majorana edge modes with gain and loss		
+langevin equation for a dissipative macroscopic quantum system: bohmian theory versus quantum mechanics		
+entanglement enabled intensity interferometry of different wavelengths of light		
+a suggested answer to wallstrom's criticism: zitterbewegung stochastic mechanics ii		
+discrete parametric oscillation and nondiffracting beams in a glauber-fock oscillator		
+experimental preparation of topologically ordered states via adiabatic evolution		
+quantum coherence behaviors of fermionic system in non-inertial frame		
+emergence of network bifurcation triggered by entanglement		
+biunitary constructions in quantum information		
+quantum cellular automata models for general dirac equation		
+neighborhood-history quantum walk		
+comments on holographic complexity		
+quantum states cannot be transmitted efficiently classically		
+modulation effect in multiphoton pair production		
+discrete-time quantum walks and graph structures		
+resource-aware system architecture model for implementation of quantum aided byzantine agreement on quantum repeater networks		
+device-independent tests of quantum states		
+a class of time-energy uncertainty relations for time-dependent hamiltonians		
+updating the born rule		
+key reconciliation with low-density parity-check codes for long-distance quantum cryptography		
+two-channel spin-chain communication line and simple quantum gates		
+maximal violation of n-locality inequalities in a star-shaped quantum network		
+complex networks from classical to quantum		
+the computational landscape of general physical theories		
+emergence of correlated proton tunneling in water ice		
+high-fidelity single-shot readout for a spin qubit via an enhanced latching mechanism		
+einstein-podolsky-rosen-like separability indicators for two-mode gaussian states		
+quantum sphere-packing bounds with polynomial prefactors		
+universal mbqc with generalised parity-phase interactions and pauli measurements		
+coherence as a resource for source-independent quantum random-number generation		
+modeling observers as physical systems representing the world from within: quantum theory as a physical and self-referential theory of inference		
+quantum versus classical simultaneity in communication complexity		
+recurrences in an isolated quantum many-body system		
+high resolution magnetic resonance spectroscopy using solid-state spins		
+graphical methods in device-independent quantum cryptography		
+quantum correlations and global coherence in distributed quantum computing		
+universal quantum uncertainty relations: minimum-uncertainty wave packet depends on measure of spread		
+experimental quantum verification in the presence of temporally correlated noise		
+proposal of a new quantum annealing schedule for studying quantum annealing of transverse field ising models		
+dynamics of single-photon emission from electrically pumped color centers		
+injection locking of an electro-optomechanical device		
+entangled coherent states by mixing squeezed vacuum and coherent light		
+nonclassical detectors and nonclassicality		
+extension of the coherence time by generating mw dressed states in a single nv centre in diamond		
+quantum gate identification: error analysis	 numerical results and optical experiment	
+analysis of wavepacket tunneling with the method of laplace transformation		
+the role of quantum coherence in non-equilibrium entropy production		
+demonstration of the no-hiding theorem on the 5 qubit ibm quantum computer in a category theoretic framework		
+composable security in relativistic quantum cryptography		
+fully device independent conference key agreement		
+complete characterization of spin chains with two ising symmetries		
+tailoring the thermalization time of a cavity-field using distinct atomic reservoirs		
+enhancement and sign change of magnetic correlations in a driven quantum many-body system		
+the modified trace distance of coherence is constant on most pure states		
+an introduction to superconducting qubits and circuit quantum electrodynamics		
+semidefinite programming converse bounds for quantum communication		
+autonomous thermal machine for amplification and control of energetic coherence		
+excitonic coupled-cluster theory		
+systematically improvable excitonic hamiltonians for electronic structure theory		
+the wigner branching random walk: efficient implementation and performance evaluation		
+informational work storage in quantum thermodynamics		
+nodal portraits of quantum billiards: domains	 lines	 and statistics
+quantum error correction for non-maximally entangled states		
+continuous-variable qkd over 50km commercial fiber		
+photon position eigenvectors	 wigner's little group and berry's phase	
+generalized uncertainty principle and quantum gravity phenomenology		
+experimental demonstration of non-local controlled-unitary quantum gates using a five-qubit quantum computer		
+a set theoretical approach for the partial tracing operation in quantum mechanics		
+local-hidden-state models for bell diagonal states and beyond		
+damped casimir radiation and photon correlation measurements		
+integrating quantum key distribution with classical communications in backbone fiber network		
+recovery map stability for the data processing inequality		
+improving autonomous thermal entanglement generation using a common reservoir		
+the unruh quantum otto engine		
+a generalised framework for non-classicality of states		
+effective polarisability models		
+majorization and the time complexity of linear optical networks		
+robust quantum control for adiabatic quantum computation		
+quantum query complexity of entropy estimation		
+one-body reduced density-matrix functional theory in finite basis sets at elevated temperatures		
+quantum versus classical online streaming algorithms with logarithmic size of memory		
+unifying entanglement with uncertainty via symmetries of observable algebras		
+necessary condition for steerability of arbitrary two-qubit states with loss		
+quantum mappings acting by coordinate transformations on wigner distributions		
+all-microwave control and dispersive readout of gate-defined quantum dot qubits in circuit quantum electrodynamics		
+improved quantum sensing with a single solid-state spin via spin-to-charge conversion		
+towards a room-temperature spin-photon interface based on nitrogen-vacancy centers and optomechanics		
+breaking the quantum adiabatic speed limit by jumping along geodesics		
+reversing the direction of heat flow using quantum correlations		
+quantum information in the posner model of quantum cognition		
+uniqueness of the joint measurement and the structure of the set of compatible quantum measurements		
+study on a spinorial representation of linear canonical transformations		
+relaxation to a phase-locked equilibrium state in a one-dimensional bosonic josephson junction		
+time operators and time crystals		
+a lie algebraic approach to a nonstationary atom-cavity system		
+numerical methods for the wigner equation with unbounded potential		
+symmetry protected topological phases characterized by isolated exceptional points		
+the dynamics of difference		
+quantum simulation of the non-fermi-liquid state of sachdev-ye-kitaev model		
+three qubit randomized benchmarking		
+experimental optical phase measurement approaching the exact heisenberg limit		
+monitoring dispersive samples with single photons: the role of frequency correlations		
+imperfect thermalizations allow for optimal thermodynamic processes		
+quantum entanglement in de sitter space from stringy axion: an analysis using $\alpha$ vacua		
+golden codes: quantum ldpc codes built from regular tessellations of hyperbolic 4-manifolds		
+quantum walks on graphs of the ordered hamming scheme and spin networks		
+a refinement of the robertson-schr\"odinger uncertainty principle and a hirschman-shannon inequality for wigner distributions		
+local hamiltonians for one-dimensional critical models		
+quantum bose-fermi droplets		
